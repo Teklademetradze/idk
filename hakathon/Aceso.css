@@ -1,0 +1,21 @@
+
+.container{
+    width: 500px !important;
+    height: 600px;
+    border: solid 1px none;
+    background-color: #fbb072;
+    border-radius: 50px;
+    margin-top: 50px;
+}
+
+.img1{
+    width: 100px;
+    height: 150px;
+    margin-top: 20px;
+    margin-left: 20px;
+    border-radius: 23px;
+}
+table, th, td,tr {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
